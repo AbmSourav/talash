@@ -1,5 +1,9 @@
 # Talash
 
+### *** This repository is Archived. Now this repo is maintain by [CodesVault](https://github.com/CodesVault/) organization. [Click here](https://github.com/CodesVault/talash) to visit the repository ***
+<br>
+<br>
+
 Talash is an advanced search plugin for WordPress. Next Level of WordPress search experience.
 
 Search any types of WordPress posts using Talash including Post, WooCommerce Product, Custom Post Type, etc.
